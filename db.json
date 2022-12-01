@@ -9,9 +9,6 @@
     "name": "typicode"
   },
   "clases":[
-{"id":1,"nombre":"python","materia":"Programación","duracion":"5","frecuencia":"semanal","costo":"8"},
-{"id":2,"nombre":"calculo","materia":"Matemáticas","duracion":"10","frecuencia":"diaria","costo":"5"},
-{"id":3,"nombre":"cinetica","materia":"Física","duracion":"5","frecuencia":"semanal","costo":"2"},
-{"id":4,"nombre":"mongo","materia":"DB","duracion":"8","frecuencia":"diaria","costo":"10"}
+{"id":1,"nombre":"python","materia":"Programación","alumno":"Juan","email":"alumno@gmail.com","estado":"Aceptada"},
 ]
 }
