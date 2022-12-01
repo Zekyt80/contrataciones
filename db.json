@@ -9,6 +9,9 @@
     "name": "typicode"
   },
   "clases":[
-{"id":1,"nombre":"python","materia":"Programación","alumno":"Juan","telefono":"1234567890","mail":"alumno@gmail.com","estado":"Aceptada"},
+{"id":1,"materia":"Programación","tipo":"Individual","frecuencia":"semanal","calificación":"buena"},
+{"id":2,"materia":"Matemáticas","tipo":"Grupal","frecuencia":"diaria","calificación":"muy buena"},
+{"id":3,"materia":"Física","tipo":"Individual","frecuencia":"semanal","calificación":"mala"},
+{"id":4,"materia":"Sistemas","tipo":"Grupal","frecuencia":"diaria","calificación":"regular"}
 ]
 }
