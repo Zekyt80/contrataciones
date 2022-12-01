@@ -9,6 +9,6 @@
     "name": "typicode"
   },
   "clases":[
-{"id":1,"nombre":"python","materia":"Programación","alumno":"Juan","email":"alumno@gmail.com","estado":"Aceptada"},
+{"id":1,"nombre":"python","materia":"Programación","alumno":"Juan","telefono":"1234567890","email":"alumno@gmail.com","estado":"Aceptada"},
 ]
 }
